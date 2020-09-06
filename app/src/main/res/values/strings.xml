@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="quiz">Quiz!</string>
+    <string name="question">What do ADT stands for? \n\n A) Android development tool \n\n B) Application Development tool \n\n C) Android Develoment Testing</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="a">A</string>
+</resources>
